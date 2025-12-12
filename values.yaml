@@ -1,0 +1,2 @@
+image: caseymarie1/vat:<+pipeline.sequenceId>
+replicas: 1
